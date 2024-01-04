@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Proto3.sln"
+    "dotnet.defaultSolution": "proto3.sln"
 }
